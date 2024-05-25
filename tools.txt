@@ -1,0 +1,7 @@
+java
+scripting
+git 
+aws
+ec2
+marven
+
